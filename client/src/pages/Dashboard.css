@@ -1,0 +1,18 @@
+.dashboard-page {
+    padding: 20px;
+}
+
+.dashboard-content {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.dashboard-content ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.dashboard-content li {
+    margin: 10px 0;
+}

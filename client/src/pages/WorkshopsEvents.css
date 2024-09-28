@@ -1,0 +1,22 @@
+.workshops-events {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .workshops-events h1 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .workshops-events .event-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .workshops-events .event-list li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 4px;
+  }
+  

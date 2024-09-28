@@ -1,0 +1,37 @@
+/* src/pages/SkillDetail.css */
+.skill-detail {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.skill-detail h1 {
+  font-size: 2.5rem;
+  color: #1e90ff;
+}
+
+.skill-detail p {
+  font-size: 1.2rem;
+  color: #34495e;
+}
+
+.more-info {
+  margin: 20px 0;
+}
+
+.enroll-button {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  color: white;
+  background-color: #28a745;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.enroll-button:hover {
+  background-color: #218838;
+}

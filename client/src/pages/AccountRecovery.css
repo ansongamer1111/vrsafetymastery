@@ -1,0 +1,25 @@
+.account-recovery {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+  }
+  
+  .account-recovery h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .account-recovery form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .account-recovery input {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  

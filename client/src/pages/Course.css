@@ -1,0 +1,13 @@
+/* Course.css */
+.course {
+  background-color: #f8f9fa;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.course h3 {
+  margin-bottom: 10px;
+  color: #333;
+}

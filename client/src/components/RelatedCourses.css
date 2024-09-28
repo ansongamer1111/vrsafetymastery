@@ -1,0 +1,31 @@
+/* src/components/RelatedCourses.css */
+.related-courses {
+    margin-top: 30px;
+  }
+  
+  .related-courses-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .related-course-item {
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 15px;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .related-course-item:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .related-course-link {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .related-course-link h3 {
+    margin: 0;
+  }
+  

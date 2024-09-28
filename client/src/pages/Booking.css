@@ -1,0 +1,24 @@
+.booking {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .booking h1 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .booking form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .booking input,
+  .booking select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  

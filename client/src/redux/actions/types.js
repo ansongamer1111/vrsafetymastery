@@ -1,0 +1,9 @@
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGOUT = 'LOGOUT';
+export const GET_USER_PROFILE = 'GET_USER_PROFILE';
+export const UPDATE_USER_PROFILE = 'UPDATE_USER_PROFILE';
+export const GET_SKILLS = 'GET_SKILLS';
+export const ADD_SKILL = 'ADD_SKILL';
+export const REMOVE_SKILL = 'REMOVE_SKILL';
+export const GET_COURSES = 'GET_COURSES';
+export const GET_COURSE = 'GET_COURSE';
