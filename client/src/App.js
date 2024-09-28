@@ -1,7 +1,7 @@
 // src/App.js
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
-import Home from '../..';
+import Home from './pages/Home';
 import SkillsExchange from './pages/SkillsExchange';
 import SkillDetail from './pages/SkillDetail';
 import VRTraining from './pages/VRTraining';
