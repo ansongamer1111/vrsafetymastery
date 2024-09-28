@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 exclude:
   - "README.md"
   - "node_modules"
