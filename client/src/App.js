@@ -44,7 +44,6 @@ function App() {
     <>
       <Header />
       <Routes>
-      <Redirect from="/" to="/home" /> {/* Automatically redirect to /home */}
         <Route path="/skills" element={<SkillsExchange />} /> {/* Fix path to skills */}
         <Route path="/skill/:id" element={<SkillDetail />} />
         <Route path="*" element={<Navigate to="/" />} />
