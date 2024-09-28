@@ -1,5 +1,5 @@
 exclude:
-  - node_modules
-  - vendor
-  - README.md
-  - CHANGELOG.md
+  - "README.md"
+  - "node_modules"
+  - "*.json"
+  - "*.lock"
